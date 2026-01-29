@@ -1,5 +1,5 @@
 {
-  "name": "claude-skill-wp-coding-standards",
+  "name": "wp-coding-standards-claude-skill",
   "version": "1.0.0",
   "description": "Comprehensive WPCS enforcement skill covering WordPress-Core, WordPress-Extra, WordPress-VIP standards, Yoda conditions, sanitization/escaping, nonce verification, and auto-fix workflows.",
   "skills": [

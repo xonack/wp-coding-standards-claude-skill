@@ -1,4 +1,4 @@
-# claude-skill-wp-coding-standards
+# wp-coding-standards-claude-skill
 
 Comprehensive WPCS enforcement skill covering WordPress-Core, WordPress-Extra, WordPress-VIP standards, Yoda conditions, sanitization/escaping, nonce verification, and auto-fix workflows.
 
@@ -7,7 +7,7 @@ Comprehensive WPCS enforcement skill covering WordPress-Core, WordPress-Extra, W
 ### Claude Code Plugin Marketplace
 
 ```bash
-/plugin install https://github.com/xonack/claude-skill-wp-coding-standards
+/plugin install https://github.com/xonack/wp-coding-standards-claude-skill
 ```
 
 ### Manual Installation
@@ -30,7 +30,7 @@ Once installed, the skill activates automatically when working on relevant WordP
 ## Structure
 
 ```
-claude-skill-wp-coding-standards/
+wp-coding-standards-claude-skill/
 ├── README.md
 ├── LICENSE
 ├── .claude-plugin/
